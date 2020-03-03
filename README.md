@@ -1,3 +1,5 @@
 # Azure Security Template
 
-This will store all the Azure arm template for info security purposes.
+This repo will store all the Azure arm template for info security cloud labs.
+
+Please feel free to suggest ideas on different type of lab requirements.
