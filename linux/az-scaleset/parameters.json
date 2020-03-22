@@ -1,0 +1,87 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "servers_sql_dba_name": {
+            "value": null
+        },
+        "sites_myFunctioApp4_name": {
+            "value": null
+        },
+        "loadBalancers_lb_a_name": {
+            "value": null
+        },
+        "virtualMachines_vm_a_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_a_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_b_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_b24_name": {
+            "value": null
+        },
+        "serverfarms_ASP_az300rg_a4bc_name": {
+            "value": null
+        },
+        "components_myFunctioApp4_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_a804_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_c692_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_a_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_b_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_c_ip_name": {
+            "value": null
+        },
+        "actionGroups_Email_Action_name": {
+            "value": null
+        },
+        "publicIPAddresses_public_ip_a_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_a_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_b_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_c_nsg_name": {
+            "value": null
+        },
+        "storageAccounts_az300rgdiag967_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountaz300a9c2_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "disks_vm_b_OsDisk_1_8b5cc5464e674048a07ce69bda59c389_name": {
+            "value": null
+        },
+        "disks_vm_c_OsDisk_1_fae6d5a84e854b4eb9231098b329774c_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___myfunctioapp4_name": {
+            "value": null
+        },
+        "actiongroups_application_20insights_20smart_20detection_externalid": {
+            "value": null
+        }
+    }
+}
